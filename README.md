@@ -1,3 +1,4 @@
+
 # Template for Data Contract
 
 Welcome! Thanks for your interest and for taking the time to come here! ❤️
