@@ -1,10 +1,12 @@
 
-~~
+---
+
 # Template for Data Contract
 
-Welcome! Thanks for your interest and for taking the time to come here! ❤️
+~~Welcome! Thanks for your interest and for taking the time to come here! ❤️~~
 
-## Executive summary
+~~## Executive summary~~
+
 This project describes the **data contract** being used in the implementation of Data Mesh at [PayPal](https://about.pypl.com/). It is available for you as an Apache 2.0 license. Contributions are welcome!
 
 ## Discover the template
@@ -41,4 +43,3 @@ If you are a PayPal employee or contractor, contact us via Slack at `#rosewall-h
  * 2023-05-01 - [PayPal open sources its data contract template](https://jgp.ai/2023/05/01/paypal-open-sources-its-data-contract-template/)
 
 If you spot an article about the PayPal's Data Contract Template, make a pull request! 
-~~
