@@ -1,4 +1,5 @@
 
+~~
 # Template for Data Contract
 
 Welcome! Thanks for your interest and for taking the time to come here! ❤️
@@ -40,4 +41,4 @@ If you are a PayPal employee or contractor, contact us via Slack at `#rosewall-h
  * 2023-05-01 - [PayPal open sources its data contract template](https://jgp.ai/2023/05/01/paypal-open-sources-its-data-contract-template/)
 
 If you spot an article about the PayPal's Data Contract Template, make a pull request! 
-
+~~
